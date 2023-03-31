@@ -1,18 +1,40 @@
 ### Hi there,I'm Shannon Tafadzwa Sikadi 👋
 
+
+
+#### About Me
+
 I am an aspiring actuary who is enthusiastic about employing deep learning and machine learning to create complex and powerful models for efficiency in the actuarial industry, banking, and insurance sectors. My goal is to acquire all the knowledge I can get to be the most efficient and be able to concatenate  digital transformation, deep learning and machine learning, and actuarial science to develop amazing business solutions.
 
-<!--
-**ShannonT20/ShannonT20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Skills
 
-Here are some ideas to get you started:
+- Passionate Deep Learning and Machine Learning
+- Actuarial Science
+- IOT and Digital Transformation enthusiast
+- Python Programmer
+- Excellent problem-solving skills
+- Quick learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
+
+- Python
+- R
+- Excel
+- SQL
+
+#### Software and tools
+
+- RStudio
+- Visual Studio Code
+- Pycharm
+- Jupyter Notebook
+- Mysql
+- Microsoft Excel
+
+#### Packages and Frameworks
+- Numpy
+- Pandas
+- Streamlit
+- Sk-learn
+- Matplotlib
+- Catboost,XGboost,LGBoost
