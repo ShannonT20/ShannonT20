@@ -8,9 +8,9 @@ I am an aspiring Data Scientist and Actuarial Science Student who is enthusiasti
 
 #### Skills
 
-- Passionate Deep Learning and Machine Learning
+- Machine Learning
 - Actuarial Science
-- IOT and Digital Transformation enthusiast
+- IOT and digital transformation Beginner level 
 - Python Programmer
 - Excellent problem-solving skills
 - Quick learner
