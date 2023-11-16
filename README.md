@@ -14,6 +14,7 @@ Zindi Certificate:https://zindi.africa/users/Shannon_Sikadi/competitions/certifi
 - Actuarial Science
 - IOT and digital transformation Beginner level 
 - Python Programmer
+- Pyhthon Backend Developer
 - Excellent problem-solving skills
 - Quick learner
 
@@ -31,12 +32,14 @@ Zindi Certificate:https://zindi.africa/users/Shannon_Sikadi/competitions/certifi
 - Pycharm
 - Jupyter Notebook
 - Mysql
+- PostgreSQL
 - Microsoft Excel
 
 #### Packages and Frameworks
 - Numpy
 - Pandas
 - Streamlit
-- Sk-learn
+- Scikit-learn
 - Matplotlib
+- Fastapi
 - Catboost,XGboost,LGBoost
