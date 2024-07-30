@@ -17,6 +17,7 @@ Zindi Certificate:https://zindi.africa/users/Shannon_Sikadi/competitions/certifi
 - Pyhthon Backend Developer
 - Excellent problem-solving skills
 - Quick learner
+- Process Automation
 
 #### Languages
 
@@ -34,10 +35,13 @@ Zindi Certificate:https://zindi.africa/users/Shannon_Sikadi/competitions/certifi
 - Mysql
 - PostgreSQL
 - Microsoft Excel
+- Power BI
 
 #### Packages and Frameworks
 - Numpy
 - Pandas
+- Flask
+- FastAPI
 - Streamlit
 - Scikit-learn
 - Matplotlib
