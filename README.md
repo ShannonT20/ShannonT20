@@ -1,6 +1,7 @@
 ### Hi there,I'm Shannon Tafadzwa Sikadi 👋
 
 ![Shannon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shannont20&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shannont20&langs_count=10&layout=compact)
 
 
 
