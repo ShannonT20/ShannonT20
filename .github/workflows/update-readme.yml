@@ -1,23 +1,29 @@
-name: Update README
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+    - cron: '0 0 * * *'  # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-stats:
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v3
+    - uses: actions/checkout@v3
 
-      - name: Update README
-        env:
-          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
-        run: |
-          sed -i "s/&token=.*/&token=${STATS_TOKEN}/g" README.md
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "Update README with token" || echo "No changes to commit"
-          git push
+    - name: Generate stats images
+      env:
+        STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+      run: |
+        # Download the stats images
+        curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=shannont20&show_icons=true&hide_title=true&count_private=true&hide=prs&token=${STATS_TOKEN}"
+        curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=shannont20&langs_count=10&layout=compact&include_all=true&token=${STATS_TOKEN}"
+
+    - name: Commit images
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add stats.svg top-langs.svg
+        git commit -m "Update GitHub stats images" || echo "No changes to commit"
+        git push
