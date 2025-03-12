@@ -1,9 +1,8 @@
 ### Hi there,I'm Shannon Tafadzwa Sikadi 👋
 
-![Shannon's GitHub stats](stats.svg)
+![Shannon's GitHub stats](./assets/stats.svg)
 
-![Top Languages](top-langs.svg)
-
+![Top Languages](./assets/top-langs.svg)
 
 #### About Me
 
