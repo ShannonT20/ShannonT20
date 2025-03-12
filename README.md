@@ -2,7 +2,7 @@
 
 ![Shannon's GitHub stats](./assets/stats.svg)
 
-![Top Languages](./assets/top-langs.svg)
+![Top Languages](./README.md)
 
 #### About Me
 
