@@ -1,10 +1,8 @@
 ### Hi there,I'm Shannon Tafadzwa Sikadi 👋
 
-![Shannon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shannont20&show_icons=true&hide_title=true&count_private=true&hide=prs&token=STATS_TOKEN)
+![Shannon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shannont20&show_icons=true&hide_title=true&count_private=true&hide=prs&token=STATS_TOKE)
 
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=shannont20&langs_count=10&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=shannont20&langs_count=10&layout=compact&include_all=true&token=STATS_TOKEN
-))
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shannont20&langs_count=10&layout=compact&include_all=true&token=STATS_TOKEN)
 
 
 
